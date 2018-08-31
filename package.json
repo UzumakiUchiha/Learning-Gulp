@@ -1,0 +1,19 @@
+{
+  "name": "learning-gulp",
+  "version": "1.0.0",
+  "description": "Learning Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UzumakiUchiha/Learning-Gulp.git"
+  },
+  "author": "Zoyeb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UzumakiUchiha/Learning-Gulp/issues"
+  },
+  "homepage": "https://github.com/UzumakiUchiha/Learning-Gulp#readme"
+}
